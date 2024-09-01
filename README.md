@@ -1,0 +1,1 @@
+Incluye captura de pantalla
